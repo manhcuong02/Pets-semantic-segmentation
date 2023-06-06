@@ -1,4 +1,4 @@
-# Pets-semantic-segmentation-UNet-Model-using-Pytorch
+# Pets-semantic-segmentation-with-UNet-Model-using-Pytorch
 Dataset: https://www.robots.ox.ac.uk/~vgg/data/pets/
 
 # UNet Model 
